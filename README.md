@@ -25,8 +25,4 @@
 - **Modular & Scalable**  
   Designed to adapt to different regions and sensor setups.
 
----
 
-## 🛠 Project Structure
-
-# ForestEye
